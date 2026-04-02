@@ -289,16 +289,16 @@ redclaude -p "Önemli dosyaları yedekle"
 
 ### Nasıl Yardımcı Olabilirsiniz?
 
-1. **Bug Report**: [GitHub Issues](https://github.com/yourusername/redclaude/issues)
-2. **Feature Request**: [Discussions](https://github.com/yourusername/redclaude/discussions)
-3. **Pull Request**: [PR Guide](https://github.com/yourusername/redclaude/pulls)
+1. **Bug Report**: [GitHub Issues](https://github.com/ayzekhdawy/redclaude/issues)
+2. **Feature Request**: [Discussions](https://github.com/ayzekhdawy/redclaude/discussions)
+3. **Pull Request**: [PR Guide](https://github.com/ayzekhdawy/redclaude/pulls)
 4. **Dokümantasyon**: README'yi geliştir
 
 ### Geliştirme Akışı
 
 ```bash
 # Fork et
-git clone https://github.com/yourusername/redclaude.git
+git clone https://github.com/ayzekhdawy/redclaude.git
 
 # Branch oluştur
 git checkout -b feature/yeni-ozellik
@@ -364,9 +364,8 @@ Bu yazılım tamamen kısıtlamasızdır:
 
 ## 📞 İletişim
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Discord**: [RedClaude Community](https://discord.gg/redclaude)
-- **Twitter**: [@redclaude](https://twitter.com/redclaude)
+- **GitHub**: [@yourusername](https://github.com/ayzekhdawy)
+- **Twitter**: [@redclaude](https://twitter.com/ayzekdiolar)
 
 ---
 
